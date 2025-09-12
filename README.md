@@ -44,7 +44,7 @@ sudo apt install libtesseract-dev libopencv-dev tesseract-ocr tesseract-ocr-eng
 
 ## ▶️ Running the Program
 
-Build the project using `make`, then run the exectubale followed by the path to a folder with all the receipt pictures.
+Build the project using `make`, then run the executable followed by the path to a folder with all the receipt pictures.
 
 ```bash
 ./ocr_sum /path/to/folder/with/receipts
