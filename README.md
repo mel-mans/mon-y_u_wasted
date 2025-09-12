@@ -37,7 +37,7 @@ Install on Ubuntu:
 
 ```bash
 sudo apt install libtesseract-dev libopencv-dev tesseract-ocr tesseract-ocr-eng
-
+```
 
 ---
 
@@ -48,5 +48,6 @@ Build the project using `make`, then run the exectubale followed by the path to 
 
 ```bash
 ./ocr_sum /path/to/folder/with/receipts
+```
 
 ps: u can manually paste the flags in flags.txt into the makefile for better performance.
