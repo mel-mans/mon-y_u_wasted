@@ -23,7 +23,6 @@ This is useful for quickly totaling transactions from printed or scanned bank re
 
 ![Example Bank Receipt](receipt.png)
 
-*Replace `example_receipt.jpg` with your ow_*
 
 ---
 
